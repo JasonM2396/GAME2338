@@ -10,8 +10,8 @@ Shadowless can be found on Armor Games (https://armorgames.com/). You can search
 
 ## Summary
 Shadowless  is about an adventurous wanderer that is without a shadow, he doesn't remember much about his past. He has heard that the Queen of Shadows takes those that are shadows to do her bidding. He embarks on an adventure to battle the Queen's minion horde to learn the truth of himself and his shadow (info from https://armorgames.com/play/18046/shadowless).
-Your goal in Shadowless is to fight hordes of enemies, collect items and level up your character. The control scheme takes some time to get used to, but once you play through some of the game it shouldn't tough to get used to.
-You basically move with the arrow keys and press up or Space to jump. Using your weapon is the X key, Range weapon is the C key, collecting an item is the A key and trashing an item is T.
+Your goal in Shadowless is to fight hordes of enemies, collect items and level up your character. The control scheme takes some time to get used to, but once you play through some of the game it shouldn't tough to get used to. When you first start the game, you are granted with a tutorial on how to play Shadowless. This tutorial is important as it will show you how to play the game.
+You basically move with the arrow keys and press up or Space to jump. Using your weapon is the X key, Range weapon is the C key, collecting an item is the A key and trashing an item is T. You have two weapons, a short and long range weapon. You change your weapons by collecting them from downed enemies by pressing A. The short range weapon can be a knife, a sword, etc., and your long range weapon is a crossbow. When an enemy drops a weapon, getting close to the weapon will show some stats if can boost or deplete certain stats. Trashing an item means that your are selling the item, as you have in game currency to spend on items, weapons, upgrade your stats, etc.
 
 
 ## Final Thoughts
