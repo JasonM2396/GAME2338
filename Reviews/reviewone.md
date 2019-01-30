@@ -6,10 +6,10 @@
 Shadowless can be found on Armor Games (https://armorgames.com/). You can search for Shadowless by typing "shadowless armor games". URL for Shadowless: https://armorgames.com/play/18046/shadowless
 
 ### Rating
-3.7 out of 5 crates
+I am rating Shadowless on a scale 1-10 swords. I rate Shadowless 7 swords out of 10.
 
 ## Summary
-  Shadowless is about an adventurous wanderer that is without a shadow; he doesn't remember much about his past. He later hears that the Queen of Shadows takes those that are shadows to do her bidding. He embarks on an adventure to stop the Queen's minion horde to learn the truth of himself and his shadow (info from https://armorgames.com/play/18046/shadowless). 
+  Shadowless is about an adventurous wanderer that is without a shadow; he doesn't remember much about his past. He later hears that the Queen of Shadows takes those that are shadows to do her bidding. He embarks on an adventure to stop the Queen's minion horde to learn the truth of himself and his shadow. (Parts of description from: https://armorgames.com/play/18046/shadowless) 
   
   Your goal in Shadowless is to fight hordes of enemies, collect items and level up your character. The control scheme takes some time to get used to, but once you play through the game you should be able to understand the controls. When you first start the game you are granted with a tutorial on how to play Shadowless. Doing this tutorial will show you how to play the game and master your armory.
   
