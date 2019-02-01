@@ -2,8 +2,8 @@
 
 ## Details
 
-### Shadowless
-Shadowless can be found on Armor Games. You can search for Shadowless by typing **"shadowless armor games".** Where to play Shadowless: https://armorgames.com/play/18046/shadowless
+### Game Title
+https://armorgames.com/play/18046/shadowless
 
 ### Rating
 I am rating Shadowless on a scale of 1-10 swords. I rate Shadowless 7 swords out of 10.
