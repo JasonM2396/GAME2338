@@ -23,5 +23,5 @@ I am rating Shadowless on a scale of 1-10 swords. I rate Shadowless 7 swords out
 If you are a fan of RPG's and side scrolling platformers, then you will like this game. However, I wished that the puzzles on some areas would be more simple to solve, without requiring you to exit in areas like dungeons. The control scheme could have been better as it took time for me to get used too. In spite of these caveats, Shadowless is game to check out for those who are fans of RPG platformers.
 
 ## Additional Information
-Parts of paragraph one are from the description here, on the Overview tab: https://armorgames.com/play/18046/shadowless
+Parts of paragraph one in the **Summary** portion are from the description here, in the Overview tab: https://armorgames.com/play/18046/shadowless
 
