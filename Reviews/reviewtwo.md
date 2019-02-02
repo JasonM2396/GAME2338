@@ -1,9 +1,10 @@
-# Game Review for (GAME TITLE)
+# Game Review for Xeodrifter
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Xeodrifter by Renegade Kid and Atooi (later ports). You can find the game on Steam, Nintendo eShop (3DS and Switch), PS4, and PS Vita. Other links will be posted on **Additional Information**.
+https://store.steampowered.com/app/319140/Xeodrifter/
 
 ### Rating
 Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
