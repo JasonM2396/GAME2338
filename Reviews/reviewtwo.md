@@ -18,6 +18,7 @@ This game is about... this should be at least 3-4 paragraphs summarising the gam
 I would highly recommend Xeodrifter if you are a fan of Metroidvania style games or there is a sale. What I didn't like about Xeodrifter is the lack of a tutorial, lack of save points (only at the start of each level), and confusing direction. Speaking of confusing direction, sometimes you have to explore each level to know where you are supposed to go, which can be time consuming. Despite these caveats, Xeodrifter is a game to check out if you like run and gun platformers.
 
 ## Additional Information
-Nintendo eShop: https://www.nintendo.com/games/detail/xeodrifter-switch
-Main website: https://www.atooi.com/xeodrifter
-PS4: https://store.playstation.com/en-us/product/UP1050-CUSA02439_00-XEODRIFTERPS4USX
+* Other links on where to find Xeodrifter.
+	* Nintendo eShop: https://www.nintendo.com/games/detail/xeodrifter-switch
+	*Main website: https://www.atooi.com/xeodrifter
+	*PS4: https://store.playstation.com/en-us/product/UP1050-CUSA02439_00-XEODRIFTERPS4USX
