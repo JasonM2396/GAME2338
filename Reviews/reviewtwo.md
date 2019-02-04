@@ -20,5 +20,7 @@ I would highly recommend Xeodrifter if you are a fan of Metroidvania style games
 ## Additional Information
 * Other links on where to find Xeodrifter.
 	* Nintendo eShop: https://www.nintendo.com/games/detail/xeodrifter-switch
+	
 	*Main website: https://www.atooi.com/xeodrifter
+	
 	*PS4: https://store.playstation.com/en-us/product/UP1050-CUSA02439_00-XEODRIFTERPS4USX
