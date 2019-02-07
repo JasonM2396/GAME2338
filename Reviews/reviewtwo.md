@@ -3,7 +3,7 @@
 ## Details
 
 ### Game Title
-Xeodrifter by Renegade Kid and Atooi (later ports). You can find the game on PC, Nintendo eShop (3DS and Switch), PS4, and PS Vita. Other links will be posted on **Additional Information**.
+Xeodrifter by Renegade Kid. You can find the game on PC, Nintendo eShop (3DS and Switch), PS4, and PS Vita. Other links will be posted on **Additional Information**.
 https://store.steampowered.com/app/319140/Xeodrifter/
 
 ### Rating
