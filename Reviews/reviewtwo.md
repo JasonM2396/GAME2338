@@ -16,9 +16,9 @@ The plot of Xeodrifter is about an interstellar drifter that is traveling around
 
 Xeodrifter is a Metroidvania style platforming game developed by Renegade Kid. Xeodrifter mainly draws inspiration from the Metroid series of games and borrows similar elements and style to that said series. Although the four planets can be visited and done in any order, some planets may have upgrades which are urgent. Each planet has a different environment and layout. You will also meet bosses and tougher enemies in later parts of each level, so be prepared when you are about to face a boss.
 
-The gameplay in Xeodrifter is fairly simple if you know how to play platformers. You play as an interstellar drifter that is exploring four planets finding parts to repair his damaged spaceship. The controls are similar to most run and gun games. The **d-pad** moves the character, the **X button** shoots, and the **A**  button jumps. When you are at the planet selection, use the **A** button to accelerate the spaceship, press the d-pad to move, and press the **B** button to dock your ship on a selected planet..
+The gameplay in Xeodrifter is fairly simple if you know how to play platformers. You play as an interstellar drifter that is exploring four planets finding parts to repair his damaged spaceship. The controls are similar to most run and gun games. The **d-pad** moves the character, the **X button** shoots, and the **A**  button jumps. When you are at the planet selection, use the **A** button to accelerate the spaceship, press the d-pad to move, and press the **B** button to dock your ship on a selected planet.
 
-Collecting upgrades and power-ups are urgent because they are required for some levels and to gain access to new areas in each level. The top planet has an upgrade to get a submarine, which is a requirement for the other levels. You can also collect health pickups, which will increase your overall health. You start with 3 health circles, losing all health circles results in a game over. When you are about to start a level, use the save points by pressing up to save your progress.
+Collecting upgrades and power-ups are urgent because they are required for some levels and to gain access to new areas in each level. The top planet has an upgrade to get a submarine, which is a requirement for the other levels. Other upgrades are also available in other levels. You can also collect health pickups, which will increase your overall health. You start with 3 health circles, losing all health circles results in a game over. When you are about to start a level, use the save points by pressing up to save your progress.
 
 
 ## Final Thoughts
@@ -30,3 +30,8 @@ I would highly recommend Xeodrifter if you are a fan of Metroidvania style games
 	* Main website: https://www.atooi.com/xeodrifter
 	* PS4: https://store.playstation.com/en-us/product/UP1050-CUSA02439_00-XEODRIFTERPS4USX
 * Some information from: https://en.wikipedia.org/wiki/Xeodrifter
+* Additional controls:
+	* A button also corresponds to B on Switch and 3DS, Cross on PS4 or PS controllers.
+	* B button also corresponds to A on Switch and 3DS, Circle on PS4 or PS controllers.
+	* X button also corresponds to Y on Switch and 3DS, Square on PS4 or PS controllers.
+	* Y button also corresponds to X on Switch and 3DS, Triangle on PS4 or PS controllers.
