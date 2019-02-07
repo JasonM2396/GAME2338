@@ -29,7 +29,7 @@ I would highly recommend Xeodrifter if you are a fan of Metroidvania style games
 	* Nintendo eShop: https://www.nintendo.com/games/detail/xeodrifter-switch
 	* Main website: https://www.atooi.com/xeodrifter
 	* PS4: https://store.playstation.com/en-us/product/UP1050-CUSA02439_00-XEODRIFTERPS4USX
-* Some information from: https://en.wikipedia.org/wiki/Xeodrifter
+* Some information from: https://en.wikipedia.org/wiki/Xeodrifter and https://store.steampowered.com/app/319140/Xeodrifter/
 * Additional controls:
 	* A button also corresponds to B on Switch and 3DS, Cross on PS4 or PS controllers.
 	* B button also corresponds to A on Switch and 3DS, Circle on PS4 or PS controllers.
