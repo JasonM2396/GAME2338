@@ -7,7 +7,7 @@ Xeodrifter by Renegade Kid and Atooi (later ports). You can find the game on PC,
 https://store.steampowered.com/app/319140/Xeodrifter/
 
 ### Rating
-I'm going to rate from 1 - 10 stars and I give Xeodrifter a 7 out of 10 stars.
+I'm going to rate Xeodrifter 7 out of 10 stars.
 
 :star::star::star::star::star::star::star:
 
