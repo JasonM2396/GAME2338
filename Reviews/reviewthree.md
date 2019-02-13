@@ -15,7 +15,7 @@ Hex Blocks Puzzle is a puzzle game that requires you to complete a hexagonal puz
 The gameplay for Hex Blocks Puzzle is very simple and easy to learn. You basically use your mouse to click and drag a piece on an area of the hexagonal grid. You are granted with a short tutorial on how to play the game when you start the first level. After that, you move on to the next levels on your own. However, this game also requires you to use your thinking skills in later levels, as it gets harder in each level. 
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+Hex Blocks Puzzle is a great game if you want to increase your thinking skills and to learn to use your brain. However, the game is very simple on the Easy mode but it gets harder later on. If you want to learn some thinking skills Hex Blocks Puzzle is the perfect game to play.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+Some info from: http://www.crazygames.com/game/hex-blocks-puzzle
