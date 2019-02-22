@@ -17,5 +17,5 @@ This game is about... this should be at least 3-4 paragraphs summarising the gam
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 ## Additional Information
-* Other links to Run 3.
+* Other link I recommend for Run 3.
 	* https://www.coolmathgames.com/0-run-3
