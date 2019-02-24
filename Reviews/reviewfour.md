@@ -15,7 +15,7 @@ Run 3 is a 3D platformer by Kongregate and developed by Joseph Cloutier and Alex
 
 The gameplay of Run 3 is very simple; you play as a little alien running levels while trying the reach the end. You move the alien by press Left or Right, and you jump by pressing Space. Touching the corner of the wall will flip the screen to the next platform you have touched Be careful with the empty spots, on those sections you will need to jump; also be careful with the grey platforms, as those crumble and will fall into space.
 
-If you fall out of the level, you will start over from the very beginning. You can unlock other characters when you beat certain levels, in level 10 you will unlock the Skater. The Skater is faster and jumps higher, but is a lot harder to control due to fast speed and jump height.
+If you fall out of the level, you will start over from the very beginning. You can unlock other characters when you beat certain levels, in level 10 you will unlock the Skater. The Skater is faster and jumps higher, but is a lot harder to control due to fast speed and jump height. There is more characters to unlock, you can move your mouse pointer on a locked character to see what condition you need to achieve to unlock that said character.
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
@@ -23,3 +23,6 @@ I like this about the game but didn't like this particular feature. This should 
 ## Additional Information
 * Other link I recommend for Run 3.
 	* https://www.coolmathgames.com/0-run-3
+* Other controls on Run 3:
+	* You can also press A and D to move left and right.
+	* You can also press Up or W to jump.
