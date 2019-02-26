@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Turbo Tank Redux DX
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Game Publisher: Amir Bayareh
+* Game Rating: 4.5 out of 5 stars.
+* [Game Title Website] https://amir-bayareh.itch.io/trubo-tank-redux-dx
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
