@@ -22,7 +22,7 @@ Your progress is saved in Run 3 even if you quit the game, which is a good thing
 
 
 ## Final Thoughts
-One thing I like about Run 3 is that all of your progress is saved in web browser you are using, secret levels and unlockable characters. Those who played the prior Run games will be familiar with Run 3.
+One thing I like about Run 3 is that all of your progress is saved in web browser you are using, secret levels and unlockable characters. One thing I didn't like is that your character jumped like they were on the moon, but it makes sense as its in space. One cool thing is that you can do small taps on the space keys to jump low, holding the space bar makes the character jump higher. Those who played the prior Run games will be familiar with Run 3.
 
 ## Additional Information
 * Other link I recommend for Run 3.
