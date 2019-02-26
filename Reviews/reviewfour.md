@@ -17,8 +17,11 @@ The gameplay of Run 3 is very simple; you play as a little alien running levels 
 
 If you fall out of the level, you will start over from the very beginning. You can unlock other characters when you beat certain levels, in level 10 you will unlock the Skater. The Skater is faster and jumps higher, but is a lot harder to control due to fast speed and jump height. There is more characters to unlock, you can move your mouse pointer on a locked character to see what condition you need to achieve to unlock that said character.
 
+Your progress is saved in Run 3 even if you quit the game, which is a good thing so you can come back to a certain point in the game. Secret levels can be found after completing certain levels. Secret levels tend to be harder than the main levels so definitely go play the regular levels before working your way to the secret levels.
+
+
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+One thing I like about Run 3 is that all of your progress is saved in web browser you are using, secret levels and unlockable characters. Those who played the prior Run games will be familiar with Run 3.
 
 ## Additional Information
 * Other link I recommend for Run 3.
