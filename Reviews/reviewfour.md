@@ -8,6 +8,7 @@ https://www.kongregate.com/games/player_03/run-3
 
 ### Rating
 I will rate Run 3 eight shoes out of ten.
+
 :shoe::shoe::shoe::shoe::shoe::shoe::shoe::shoe:
 
 ## Summary
