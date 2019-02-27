@@ -12,7 +12,7 @@ I will rate Run 3 8 shoes out of 10.
 :shoe::shoe::shoe::shoe::shoe::shoe::shoe::shoe:
 
 ## Summary
-Run 3 is a 3D platformer by Kongregate and developed by Joseph Cloutier and Alex Ostroff. Run 3 is the third game of the Run series of 3D web platformers. The goal of Run 3 is to run all the way to the finish of each level until you beat every single level. Each level will get harder, and the shape or the level structure may change.
+Run 3 is a 3D platformer developed by Joseph Cloutie, Alex Ostroff and published by Kongregate. Run 3 is the third game of the Run series of 3D web platformers. The goal of Run 3 is to run all the way to the finish of each level until you beat every single level. Each level will get harder, and the shape or the level structure may change.
 
 The gameplay of Run 3 is simple and easy to learn. You play as a little alien running through levels while trying the reach the end of each level. You move the alien by pressing Left or Right, and you jump by pressing Space. Touching the corners of the wall will flip the screen to the next platform you have touched Be careful with the empty spots, on those sections you will need to jump. Be careful with the grey platforms, as those will crumble and will fall into space.
 
