@@ -7,7 +7,7 @@ Run 3 by Kongregate. Game developed by Joseph Cloutier, Alex Ostroff, music by J
 https://www.kongregate.com/games/player_03/run-3
 
 ### Rating
-I will rate Run 3 eight shoes out of ten.
+I will rate Run 3 8 shoes out of 10.
 
 :shoe::shoe::shoe::shoe::shoe::shoe::shoe::shoe:
 
