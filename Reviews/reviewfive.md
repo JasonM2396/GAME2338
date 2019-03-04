@@ -6,10 +6,12 @@
 In Out by subpixel. Play here: https://subpixel.itch.io/inout
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I'm going to give In Out a 7 out of 10 stars.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+In Out is a side scrolling, action survival like game by subpixel. Your goal is to use the environment to defeat as much enemies as you can until you fall. The enemies come from both sides so be aware of any enemies that may approach you. Moving from each side helps so you would see enemies from further areas.
+
+The gameplay of In Out is very simple
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
