@@ -7,6 +7,7 @@ In Out by subpixel. Play here: https://subpixel.itch.io/inout
 
 ### Rating
 I'm going to give In Out a 7 out of 10 flames.
+
 :fire::fire::fire::fire::fire::fire::fire:
 
 ## Summary
@@ -16,7 +17,7 @@ The gameplay of In Out is very simple, you use the left and right arrow keys to 
 
 When you move too far from one side of the level, a flashing "That Way" with an arrow pointing to a direction will display. This indicates that enemies are in that area, and you are going too far away from enemies at the indicated area.
 
-While In Out doesn't offer much (since it was part of a game jam), the game provides a good challenge if you like endless side scrolling games. Despite this game being a part of a game jam, it had the very unique concept of using the environment as a way to defeat enemies.
+While In Out doesn't offer much (since it was part of a game jam), the game provides a good challenge if you like endless side scrolling games. Despite this game being a part of a game jam, it had the very unique concept of using the environment as a way to defeat enemies. The concept is very inspiring and can potentially be used in future games involving magic, dungeons, or other action based games.
 
 ## Final Thoughts
 What I liked about In Out was the use of the environment as a method of attack. Its was a very unique concept and I think any dungeon based levels that utilize magic should definitely adopt this concept. One thing I didn't like was that some enemies were so far that there was no enemy warning indicator.
