@@ -15,7 +15,7 @@ In Out is a side scrolling, action survival like game by subpixel. Your goal is 
 
 The gameplay of In Out is very simple, you use the left and right arrow keys to move, X to absorb the flames with your torch, and press the up key to jump. Holding the up arrow would make you character jump multiple times, which can be useful against unexpected enemies. The gameplay and area is endless, so move in both directions and survive as long as you can.
 
-When you move too far from one side of the level, a flashing "That Way" with an arrow pointing to a direction will display. This indicates that enemies are in that area, and you are going too far away from enemies at the indicated area.
+When you move too far from one side of the level, a flashing "That Way" with an arrow pointing to a direction will display. This indicates that enemies are in that area, and you are going too far away from enemies at the indicated area. Moving to that direction will reveal those enemies at that area, make sure you charge your torch as you will encounter the enemies at that area.
 
 While In Out doesn't offer much (since it was part of a game jam), the game provides a good challenge if you like endless side scrolling games. Despite this game being a part of a game jam, it had the very unique concept of using the environment as a way to defeat enemies. The concept is very inspiring and can potentially be used in future games involving magic, dungeons, or other action based games.
 
