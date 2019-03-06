@@ -23,4 +23,4 @@ While In Out doesn't offer much (since it was part of a game jam), the game prov
 What I liked about In Out was the use of the environment as a method of attack. Its was a very unique concept and I think any dungeon based levels that utilize magic should definitely adopt this concept. One thing I didn't like was that some enemies were so far that there was no enemy warning indicator.
 
 ## Additional Information
-Main website for In Out: http://superjami.com/games/0d50e00d
+Other website for In Out: http://superjami.com/games/0d50e00d
