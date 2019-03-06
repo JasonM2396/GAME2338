@@ -7,6 +7,7 @@ In Out by subpixel. Play here: https://subpixel.itch.io/inout
 
 ### Rating
 I'm going to give In Out a 7 out of 10 flames.
+:fire::fire::fire::fire::fire::fire::fire:
 
 ## Summary
 In Out is a side scrolling, action survival like game by subpixel. Your goal is to use the environment to defeat as much enemies as you can until you fall. The enemies come from both sides so be aware of any enemies that may approach you. Moving from each side helps so you would see enemies from further areas.
@@ -21,4 +22,4 @@ While In Out doesn't offer much (since it was part of a game jam), the game prov
 What I liked about In Out was the use of the environment as a method of attack. Its was a very unique concept and I think any dungeon based levels that utilize magic should definitely adopt this concept. One thing I didn't like was that some enemies were so far that there was no enemy warning indicator.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+Main website for In Out: http://superjami.com/games/0d50e00d
