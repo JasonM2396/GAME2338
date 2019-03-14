@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for A Dance of Fire and Ice
 
-* Game Publisher
+* 7th Beat Games
 * Game Rating
-* [Game Title Website](http://example.com)
+* https://fizzd.itch.io/a-dance-of-fire-and-ice
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
