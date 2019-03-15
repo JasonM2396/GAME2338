@@ -1,11 +1,11 @@
 # Playtest for A Dance of Fire and Ice
 
 * 7th Beat Games
-* Game Rating
+* 9 out of 10 stars.
 * https://fizzd.itch.io/a-dance-of-fire-and-ice
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ Your answer here
+> _Answer:_ The version I played was a demo, but the rules were somewhat clear. The demo version has no tutorial, but overall its simple due to the game only using one button.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
 > _Answer:_ Your answer here
