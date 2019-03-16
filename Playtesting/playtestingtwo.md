@@ -5,13 +5,13 @@
 * https://fizzd.itch.io/a-dance-of-fire-and-ice
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
-> _Answer:_ The version I played was a demo, but the rules were somewhat clear. The demo version has no tutorial, but overall its simple due to the game only using one button.
+> _Answer:_ The rules were somewhat clear, but is lacking something important thanks to this one being a demo version. There is no tutorial on the game, which means that the game has to be learned the harder way.
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
-> _Answer:_ Your answer here
+> _Answer:_ I don't really notice anything, but the only thing I find unnecessary was the zooming out on some levels. Some levels are short, and zooming out too far feels unnecessary and should be toned down for small levels. The beat lines used for the music should be removed when you lose, looks unnecessary to have when the player fails the level.
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
-> _Answer:_ Your answer here
+> _Answer:_ The game is fairly balanced at the start, but starts to fall apart if you 
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
 > _Answer:_ Your answer here
