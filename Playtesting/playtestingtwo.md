@@ -20,7 +20,7 @@
 > _Answer:_ The mechanics, theme and concept went very well. The rhythm game theme and fire and ice are a nice touch and a unique concept for a rhythm game.
 
 **Question:** Did you have fun playing this game?
-> _Answer:_ I had a lot of fun when playing A Dance of Fire and Ice. The simple one button gameplay is very fun and simple for first time rhythm gamers.
+> _Answer:_ I had a lot of fun when playing A Dance of Fire and Ice. The simple one button gameplay is very fun and simple for first time rhythm gamers. Although the lack of a tutorial in the web demo version kind of kills the learning curve of the game.
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ Your answer here
+> _Answer:_ One problem I noticed was that the blue and red spheres don't orbit and respond when you start up the game for a couple of seconds. Pressing space switches colors but the circles still don't orbit; they start to function normally after waiting a few seconds. I can get this reoccur by refreshing the webpage or click on another page tab while its on the main screen.
