@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Pico Racer
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Game Publisher: kometbomb
+* Game Rating: 6 out of 10 cars
+* [Game Title Website] https://kometbomb.itch.io/pico-racer
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
