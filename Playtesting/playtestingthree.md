@@ -14,7 +14,7 @@
 > _Answer:_ This game's balance can be a bit finicky due to the slippery controls of the vehicle. Based on that imbalance, the target audience would be for the Hardcore gamers. My reason is that the player should have prior knowledge of playing games similar games to Pico Racer.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
-> _Answer:_ Your answer here
+> _Answer:_ The timing of this game depends on the player's skills. If the player doesn't know what to do, the timing won't be right due to the game having a timer.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
 > _Answer:_ Your answer here
