@@ -14,10 +14,10 @@
 > _Answer:_ This game's balance can be a bit finicky due to the slippery controls of the vehicle. Based on that imbalance, the target audience would be for the Hardcore gamers. My reason is that the player should have prior knowledge of playing games similar games to Pico Racer.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
-> _Answer:_ The timing of this game depends on the player's skills. If the player doesn't know what to do, the timing won't be right due to the game having a timer.
+> _Answer:_ The timing of this game depends on the player's skills. If the player doesn't know what to do, the timing won't be right due to the game having a timer. With good skill, the game is actually has a decent length since you are driving around the world.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
-> _Answer:_ The driving mechanics and the drive around the world theme
+> _Answer:_ The driving mechanics and the drive around the world theme went together very well and reinforce each other, since that's the goal of Pico Racer.
 
 **Question:** Did you have fun playing this game?
 > _Answer:_ I had a good amount of fun although the controls took some time to get used to controls and to control the car. Overall, its a fun game for those who like 1980's style racers. However though, the obstacles, tight turns and that one dark area frustrates me.
