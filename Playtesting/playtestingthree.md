@@ -23,4 +23,4 @@
 > _Answer:_ I had a good amount of fun although the controls took some time to get used to controls and to control the car. Overall, its a fun game for those who like 1980's style racers. However though, the obstacles, tight turns and that one dark area frustrates me.
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ The issue only I ever encountered was the no audio issue, even when the audio is turned on. One way I got this error was to refresh the webpage, and the error will reoccur.
+> _Answer:_ The issue only I ever encountered was the no audio issue, even when the audio is turned on. One way I can get it to reoccur would be randomly, sometimes clicking on the URL saved from last time would trigger the bug.
