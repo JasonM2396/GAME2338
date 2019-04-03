@@ -25,6 +25,7 @@ One aspect I really liked about VVVVVV was that you can reverse gravity rather t
 Information:
   * https://en.wikipedia.org/wiki/VVVVVV
   * https://www.gog.com/game/vvvvvv
+  
 Other sources of VVVVVV:
   * Where I played it: https://miniclip.com/games/vvvvvv/en/
   * https://www.nintendo.com/games/detail/vvvvvv-switch
