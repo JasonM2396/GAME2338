@@ -8,6 +8,7 @@ https://store.steampowered.com/app/70300/VVVVVV/
 
 ### Rating
 I'm rating VVVVVV 5 out of 6 stars.
+
 :star::star::star::star::star:
 
 ## Summary
