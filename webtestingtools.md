@@ -22,6 +22,7 @@
    * Create robust, browser-based regression automation suites and tests
    
 ## Does this tool do any test case storage?
+The playback tool that comes with Selenium allows for storing test cases and tests, to be distrubuted to the developers to see if everything works as intended.
 
 # 3. Zephyr
    
