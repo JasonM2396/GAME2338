@@ -1,7 +1,14 @@
 # Web Testing Tools
 
-# Tool 1. What Users Do
-#### Developer: What Do Users Do Limited, UserZoom
+# Tool 1 
+**What is the name of the test tool? 
+
+What Users Do
+
+**What company developed this test tool?**
+
+What Do Users Do Limited, a UserZoom company
+
 #### Three features of What Users Do:
    * Select test subjects from a pool of prospective users
    * Set a task that users can perform
@@ -19,8 +26,14 @@ _Answer:_ Yes, since testers can submit test case recordings of what requirement
 
 _Answer:_ What Users Do will work with web based tools as What Users Do is part of the UserZoom family, UserZoom provides similar functionally as What Users Do. What
 
-# Tool 2. Selenium
-#### Developer: Jason Huggins
+# Tool 2 
+**What is the name of the test tool? 
+
+Selenium
+
+**What company developed this test tool?**
+
+Selenium HQ, developed by Jason Huggins
 #### Three features of Selenium
    * Provides playback tool for authorizing tests without the need of a scripting language
    * Create quick bug reproduction scripts
@@ -33,6 +46,7 @@ _Answer:_ The playback tool that comes with Selenium allows for storing test cas
 **Question 2:** Does this tool allow tester to link requirements or defects to test cases?
 
 _Answer:_ Selenium is automated so it will automatically link anything requirements and defects for any test case made to the developers.
+
 **Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
 _Answer:_ Selenium is an automated program, and it does work with web-based tools. Selenium normally automates web browsers and web applications for testing purpose and to create tests based on those results. The languages Selenium can use or automate are Java, C#, Python, Ruby, Groovy, Perl, PHP and Scala.
