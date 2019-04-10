@@ -46,7 +46,7 @@ _Answer:_ The playback tool that comes with Selenium allows for storing test cas
 
 **Question 2:** Does this tool allow tester to link requirements or defects to test cases?
 
-_Answer:_ Selenium is automated so it will automatically link anything requirements and defects for any test case made to the developers.
+_Answer:_ Selenium is automated so it will automatically link any requirements and defects for any test case made to the developers.
 
 **Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
