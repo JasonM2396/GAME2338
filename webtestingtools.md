@@ -24,7 +24,7 @@ _Answer:_ Yes, since testers can submit test case recordings of what requirement
 
 **Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
-_Answer:_ What Users Do will work with web based tools as What Users Do is part of the UserZoom family, UserZoom provides similar functionally as What Users Do. What
+_Answer:_ What Users Do will work with web based tools as What Users Do is part of the UserZoom family, UserZoom provides similar functionally as What Users Do. What Users Do does not use any language as everything works right out of the box.
 
 # Tool 2 
 **What is the name of the test tool?**
@@ -72,17 +72,18 @@ _Answer:_
 
 **Question 2:** Does this tool allow tester to link requirements or defects to test cases?
 
-_Answer:_
+_Answer:_ Yes, with the Ranorex recorder, you can drag and drop individual test automation steps or requirements
 
 **Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
-_Answer:_
+_Answer:_ Ranorex can handle all web-based tools and applications written in C#, Java, Delphi, VB.NET, HTML5, as well as any iOS and Android based applications.
 
 
 # References
   * https://en.wikipedia.org/wiki/Selenium_(software)
   * https://www.seleniumhq.org/
   * https://www.whatusersdo.com/
+  * http://learn.whatusersdo.com/faq/getting-started/do-i-need-to-install-any-code-or-software-on-my-site-or-app
   * https://www.softwaretestinghelp.com/most-popular-web-application-testing-tools/
   * https://www.ranorex.com/features/
   * https://www.ranorex.com/
