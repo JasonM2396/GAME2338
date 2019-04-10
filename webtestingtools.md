@@ -1,7 +1,7 @@
 # Web Testing Tools
 
 # Tool 1 
-**What is the name of the test tool? 
+**What is the name of the test tool?**
 
 What Users Do
 
@@ -9,7 +9,7 @@ What Users Do
 
 What Do Users Do Limited, a UserZoom company
 
-#### Three features of What Users Do:
+### Three features of What Users Do:
    * Select test subjects from a pool of prospective users
    * Set a task that users can perform
    * Allows feedback from users at any stage of the website
@@ -27,14 +27,14 @@ _Answer:_ Yes, since testers can submit test case recordings of what requirement
 _Answer:_ What Users Do will work with web based tools as What Users Do is part of the UserZoom family, UserZoom provides similar functionally as What Users Do. What
 
 # Tool 2 
-**What is the name of the test tool? 
+**What is the name of the test tool?**
 
 Selenium
 
 **What company developed this test tool?**
 
 Selenium HQ, developed by Jason Huggins
-#### Three features of Selenium
+### Three features of Selenium
    * Provides playback tool for authorizing tests without the need of a scripting language
    * Create quick bug reproduction scripts
    * Create robust, browser-based regression automation suites and tests
@@ -50,22 +50,36 @@ _Answer:_ Selenium is automated so it will automatically link anything requireme
 **Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
 _Answer:_ Selenium is an automated program, and it does work with web-based tools. Selenium normally automates web browsers and web applications for testing purpose and to create tests based on those results. The languages Selenium can use or automate are Java, C#, Python, Ruby, Groovy, Perl, PHP and Scala.
-# Tool 3. Ranorex
-#### Developer: Ranorex GmbH
-#### Three features of Ranorex
+
+# Tool 3. 
+**What is the name of the test tool?**
+
+Ranorex
+
+**What company developed this test tool?**
+
+Ranorex GmbH
+
+
+### Three features of Ranorex
   * Test Organization
   * Robust object Identification
   * Code editor
+  
+**Question 1:** Does this tool do any test case storage?
 
-## Question 1: Does this tool do any test case storage?
-Zephyr can store case studies
-## Question 2: Does this tool allow tester to link requirements or defects to test cases?
-## Question 3: If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+_Answer:_
+
+**Question 2:** Does this tool allow tester to link requirements or defects to test cases?
+
+_Answer:_
+
+**Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+
+_Answer:_
 
 
-
-
-# Some Information from:
+# References
   * https://en.wikipedia.org/wiki/Selenium_(software)
   * https://www.seleniumhq.org/
   * https://www.whatusersdo.com/
