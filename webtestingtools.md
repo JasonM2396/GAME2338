@@ -52,7 +52,7 @@ _Answer:_ Selenium is automated so it will automatically link anything requireme
 
 _Answer:_ Selenium is an automated program, and it does work with web-based tools. Selenium normally automates web browsers and web applications for testing purpose and to create tests based on those results. The languages Selenium can use or automate are Java, C#, Python, Ruby, Groovy, Perl, PHP and Scala.
 
-# Tool 3. 
+# Tool 3
 **What is the name of the test tool?**
 
 Ranorex
@@ -68,11 +68,11 @@ Ranorex GmbH
   
 **Question 1:** Does this tool do any test case storage?
 
-_Answer:_
+_Answer:_ Yes because Ranorex comes with a corresponding repository to keep track of recordings, use the items or action table in your recordings. Ranorex's build in test organization can help you manage recordings, or use exist recordings to make new test cases.
 
 **Question 2:** Does this tool allow tester to link requirements or defects to test cases?
 
-_Answer:_ Yes, with the Ranorex recorder, you can drag and drop individual test automation steps or requirements
+_Answer:_ Yes, with the Ranorex recorder, you can drag and drop individual test automation steps to supplement test case recordings. Automated testing helps you with recording as you can link defects to test cases based on recordings.
 
 **Question 3:** If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
