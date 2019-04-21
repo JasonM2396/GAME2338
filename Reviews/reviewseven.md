@@ -10,7 +10,7 @@ I'm rating this game based on a system of five hearts. I will rate Rhythm Doctor
 :heart::heart::heart::heart:
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+Rhythm Doctor is a rhythm game you have to press a single button when the beat lines reach the seventh note. Most rhythm games have mulitple buttons to press, but this one just has one. Despite the simplicity, the game gets tougher the more levels you progress within the game.
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
