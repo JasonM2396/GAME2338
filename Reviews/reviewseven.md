@@ -12,6 +12,8 @@ I'm rating this game based on a system of five hearts. I will rate Rhythm Doctor
 ## Summary
 Rhythm Doctor is a rhythm game you have to press a single button when the beat lines reach the seventh note. Most rhythm games have mulitple buttons to press, but this one just has one. Despite the simplicity, the game gets tougher the more levels you progress within the game. The game does have a tutorial for those playing the game for the first time.
 
+The controls for Rhythm Doctor are very simple for a newcomer to learn. All you do a press the space bar to use your defribilator when the beat reaches the seventh beat. Additional controls are pressing the P key to Pause, Q to quit and R to restart. You are first greeted with a tutorial teaching you on how to play Rhythm Doctor. After you finish the tutorial, you will be put onyo the gameplay. Just press the space bar on every seventh beat; make sure you don't time your beat early or late, one good tip is to tap to the beats or say the beat numbers.
+
 
 
 ## Final Thoughts
