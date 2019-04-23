@@ -16,7 +16,7 @@ The controls for Rhythm Doctor are very simple for a newcomer to learn. All you 
 
 The first level may look easily but the song it played was actually pretty fast. The first time I played it I got a C. An A or higher is need to progress to the next patient. The next playthrough I got an A, allowing to proceed to the next patient. The next patient is harder since it skipped beats. When that's the case, the X's are the beats that are skipped, making it harder to time. One tip is to say the beat number or tap to the song. Once you get an A or higher, you will proceed to the boss level.
 
-The boss levels are tougher than the main levels; sometimes the screen does weird effects like screen shake, static or skipping to make the song harder. This is intentional so the game itself is harder than normal, to fit with the hardest one button game concept.
+The boss levels are tougher than the main levels; sometimes the screen does weird effects like screen shake, static or skipping to make the song harder. This is intentional so the game itself is harder than normal, to fit with the hardest one button game concept. In one level after, the player has to work with multiple patients, making the level tougher since the player needs to look at all patient's beat lines to use the defibrillator with.
 
 
 
@@ -24,4 +24,4 @@ The boss levels are tougher than the main levels; sometimes the screen does weir
 The one button gameplay concept for a rhythm game in very interesting and a simple concept that works like wonders. The only thing I didn't like is that the judgment system is strict and the factor you need to get a high grade to proceed to the next patient.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+Main website: http://rhythmdr.com/
