@@ -14,6 +14,8 @@ Rhythm Doctor is a rhythm game you have to press a single button when the beat l
 
 The controls for Rhythm Doctor are very simple for a newcomer to learn. All you do a press the space bar to use your defibrillator when the beat reaches the seventh beat. Additional controls are pressing the P key to Pause, Q to quit and R to restart. You are first greeted with a tutorial teaching you on how to play Rhythm Doctor. After you finish the tutorial, you will be put onto the gameplay. Just press the space bar on every seventh beat; make sure you don't time your beat early or late, one good tip is to tap to the beats or say the beat numbers.
 
+The first level may look easily but the song it played was actually pretty fast. The first time I played it I got a C. An A or higher is need to progress to the next patient. The next playthrough I got an A, allowing to proceed to the next patient. The next patient is harder since it skipped beats. When that's the case, the X's are the beats that are skipped, making it harder to time. One tip is to say the beat number or tap to the song. Once you get an A or higher, you will proceed
+
 
 
 ## Final Thoughts
